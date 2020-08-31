@@ -9,5 +9,5 @@ Buishand and Double Mass tests for hydrologic Time serie homogeneity
 TIPS: 
 - The dynamic graphs can be saved to disk by hand with the interactif menu above the plot
 - The fig.write_image('data.png') method in the code can be enabled in order to generate the graph file automaticaly. Unfortunatly this method needs the installation of plotly-orca utility with the help of psutil by the command line: conda install -c plotly plotly-orca == 1.2.1 psutil request
-- Run the notebook preferably under Jupyter in order to display dynamic graphs. Jupyter Lab needs a optionnal extension to display dynamic graphs (no problem for static graphs)
+- Run the notebook preferably under Jupyter in order to display "dynamic graphs" (note Jupyter Lab which needs a optionnal extension to display "dynamic graphs"). There is no problem for static graphs.
 - Alternately, you cans disable plotting lines of the cell below, and replace them by the 2 lines wich are currently disable (there is no alternate solution for Double Mass test)
