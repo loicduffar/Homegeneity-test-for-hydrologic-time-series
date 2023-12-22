@@ -12,4 +12,5 @@ TIPS:
 - Run the notebook preferably under Jupyter in order to display "dynamic graphs" (note Jupyter Lab which needs a optionnal extension to display "dynamic graphs"). There is no problem for static graphs.
 - Alternately, you cans disable plotting lines of the cell below, and replace them by the 2 lines wich are currently disable (there is no alternate solution for Double Mass test)
 
-<img src= "https://github.com/loicduffar/Homegeneity-test-for-hydrologic-time-series/blob/master/out/Buishand%20test%20Result.png"></img>
+<img src= "https://github.com/loicduffar/Homegeneity-test-for-hydrologic-time-series/blob/master/out/Buishand%20test%20Result.png" width="30%"></img>
+<img src= "https://github.com/loicduffar/Homegeneity-test-for-hydrologic-time-series/blob/master/out/Double%20mass%20Graph.png" width="30%"></img>
